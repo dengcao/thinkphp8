@@ -8,8 +8,6 @@
 此离线手册仅供内部学习使用，不得用于任何商业行为，否则引起的一切后果自负。非内网环境，请大家直接访问官方在线版手册，以获取更加新鲜的内容。请多多支持ThinkPHP官方！
 
 
-
-
 ThinkPHP 8.*官方在线版：
 <https://doc.thinkphp.cn/v8_0/preface.html>
 
@@ -24,6 +22,8 @@ GitHub：https://github.com/dengcao/thinkphp8
 
 
 ### 联系
+
+如有侵权，请联系删除。E-mail：dzh188@qq.com
 
 博客：[邓草博客 blog.5300.cn](http://blog.5300.cn)
 
