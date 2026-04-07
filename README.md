@@ -14,14 +14,13 @@ ThinkPHP 8.*官方在线版：
 <https://doc.thinkphp.cn/v8_0/preface.html>
 
 
-  
-### 离线下载：
+### 支持：
 
-<https://github.com/dengcao/thinkphp8>
+支持我，请到Gitee和GitHub给我点Star！
 
-<https://gitee.com/dengzhenhua/thinkphp8>
+Gitee：https://gitee.com/dengzhenhua/thinkphp8
 
-
+GitHub：https://github.com/dengcao/thinkphp8
 
 
 ### 联系
